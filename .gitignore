@@ -1,0 +1,59 @@
+############################
+# Visual Studio
+############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+############################
+# Build Çıktıları
+############################
+# Çıkış dizinleri (Debug / Release exe, dll, lib vs.)
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Bb]in/
+[Ll]ib/
+
+# Ara dosyalar
+Intermediate/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.log
+*.pch
+*.tmp
+*.cache
+*.ipdb
+*.iobj
+
+############################
+# Çeşitli IDE / Araç dosyaları
+############################
+# Rider / CLion / IntelliJ IDEA
+.idea/
+
+# Code::Blocks
+*.depend
+*.layout
+
+# Visual Studio Code
+.vscode/
+
+############################
+# Sistem dosyaları
+############################
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
