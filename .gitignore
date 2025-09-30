@@ -13,7 +13,6 @@
 # Çıkış dizinleri (Debug / Release exe, dll, lib vs.)
 x64/
 x86/
-[Ww][Ii][Nn]32/
 [Bb]in/
 [Ll]ib/
 
